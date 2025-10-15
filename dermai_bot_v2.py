@@ -11,7 +11,7 @@ from utils.db import DBHandler
 #     "port": 5432
 # }
 
-TOKEN = "8240689092:AAHsXDuEKVN74l2Z4yu_8khC6HqhV8gcOMo"
+TOKEN = "here bot TOKEN"
 
 if __name__ == "__main__":
 
