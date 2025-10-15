@@ -1,0 +1,7 @@
+id_patient,age,sex,allergies,answers_json,skin_code
+931c615b-6dbf-4d7b-8c53-12279cce2be6,40,Ж,нет,"{""O/D"": ""B"", ""S/R"": ""B"", ""P/N"": ""A"", ""W/T"": ""B""}",DRPT
+7747b819-d6ea-4ab6-8f26-da5dabf5a70a,40,Ж,М,"{""O/D"": ""A"", ""S/R"": ""A"", ""P/N"": ""A"", ""W/T"": ""B""}",OSPT
+d63faee8-35f7-49da-b1aa-bb612e97e18a,43,М,нет,"{""O/D"": ""A"", ""S/R"": ""A"", ""P/N"": ""A"", ""W/T"": ""A""}",OSPW
+9c8512ff-9210-4685-8b19-9afb9a02b115,45,М,Нет,"{""O/D"": ""A"", ""S/R"": ""A"", ""P/N"": ""B"", ""W/T"": ""A""}",OSNW
+dffe5a64-6d3c-455e-8fbe-9fab5c51a51f,41,М,нет,"{""O/D"": ""A"", ""S/R"": ""A"", ""P/N"": ""A"", ""W/T"": ""A""}",OSPW
+9e6d4548-7bf6-4a2f-bd4e-addd5ff05057,41,М,ytn,,
