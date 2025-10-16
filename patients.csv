@@ -1,7 +1,23 @@
-id_patient,age,sex,allergies,answers_json,skin_code
-931c615b-6dbf-4d7b-8c53-12279cce2be6,40,Ж,нет,"{""O/D"": ""B"", ""S/R"": ""B"", ""P/N"": ""A"", ""W/T"": ""B""}",DRPT
-7747b819-d6ea-4ab6-8f26-da5dabf5a70a,40,Ж,М,"{""O/D"": ""A"", ""S/R"": ""A"", ""P/N"": ""A"", ""W/T"": ""B""}",OSPT
-d63faee8-35f7-49da-b1aa-bb612e97e18a,43,М,нет,"{""O/D"": ""A"", ""S/R"": ""A"", ""P/N"": ""A"", ""W/T"": ""A""}",OSPW
-9c8512ff-9210-4685-8b19-9afb9a02b115,45,М,Нет,"{""O/D"": ""A"", ""S/R"": ""A"", ""P/N"": ""B"", ""W/T"": ""A""}",OSNW
-dffe5a64-6d3c-455e-8fbe-9fab5c51a51f,41,М,нет,"{""O/D"": ""A"", ""S/R"": ""A"", ""P/N"": ""A"", ""W/T"": ""A""}",OSPW
-9e6d4548-7bf6-4a2f-bd4e-addd5ff05057,41,М,ytn,,
+id_patient,age,sex,allergies,answers_json,skin_code,skin_type_dermatoscopy,match_percent,final_skin_type,time_of_year
+87df4fa8-73a8-40ea-9d16-2e91064c832a,432,М,нет,,,OSPW,0,OSPW,
+a0ed0fe3-4b17-4e3e-b0e6-e23cc1f6485c,31,М,Нет,,,,,,
+a070b1a7-fbaa-425c-8c9f-ed32f4cf0ef5,45,М,Нет,,,OSPW,0,OSPW,
+50024094-a92b-40b4-888e-49c2da1ae55d,45,М,нет,,,OSPW,0,OSPW,
+0177e45c-ba32-4310-bf78-23c1d79a0436,65,Ж,нет,,,OSPW,0,OSPW,
+633cd8a1-752a-4a93-af6c-014bcbe41e4e,65,М,нет,,,OSPW,0,OSPW,
+1d3f702d-2b7f-453b-9e29-69d42a7d4987,54,Ж,нет,,,OSPW,0,OSPW,
+8db227e1-57cb-4039-9af5-1bc1f2c1138e,65,Ж,ytn,,,OSPW,0,OSPW,
+8ed75c0c-af51-4f95-bd07-71b98014f2b0,65,М,нет,,,OSPW,0,OSPW,
+5046054e-4d5a-4dd4-9ed8-2271224ec022,45,М,нет,,,OSPW,0,OSPW,
+4dbed7d8-4448-45c1-8ea0-1f4dec65858f,65,М,нет,,,,,,
+cdd62cc3-c967-4f2b-8649-c21818494476,32,М,ytn,,,,,,
+OSPW,,,,,,OSPW,0,OSPW,
+042bf69f-47c6-4d2c-a935-5f7ce5e45830,21,Ж,нет,,,,,,
+bd122141-ce06-486c-8e86-d44038d4b77a,43,М,нет,,,OSPW,75.0,OSPW,
+a4699f50-5bf2-4648-9429-e8c6e058d030,31,М,нет,,,OSPW,50.0,OSPW,
+756337a9-53c9-479a-8dd7-70234f272ff1,42,М,нет,,,OSPW,100.0,OSPW,
+4e31700e-7714-4b95-a1ac-c9aa22a1ae5f,65,М,нет,,,OSPW,75.0,OSPW,
+730df291-4cf6-4e26-a528-0aafc7b63e51,29,Ж,На глютен,,,OSPW,75.0,OSPW,
+b85cfdbe-3671-4e11-94c0-1987bb764044,54,Ж,нет,,,,,,
+03cc1bfb-25df-4699-abb0-049ad6ce464e,65,М,нет,,,,,,
+3abe1062-2aac-482a-bcab-9f57d1c73107,5,М,нет,"{""O/D"": ""A"", ""S/R"": ""A"", ""P/N"": ""B"", ""W/T"": ""A""}",OSNW,OSPW,75.0,OSPW,Весна/Лето
